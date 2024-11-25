@@ -1,0 +1,10 @@
+.q1 {color: green;}
+.q2 {border-style: solid;
+background-color: green;
+border-color: black;
+width: 800px; height: 50px;}
+.q3 {border-style: solid;
+background-color: greenyellow;
+border-color: black;
+width: 800px; height: 50px;
+}
